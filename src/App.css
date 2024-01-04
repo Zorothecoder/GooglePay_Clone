@@ -105,6 +105,11 @@ body {
     height: 650px!important;
   }
 }
+@media (min-width: 1400px){
+  .container{
+    height: 650px!important;
+  }
+}
 .container {
   position: relative;
   overflow-y: auto;
