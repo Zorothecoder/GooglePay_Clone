@@ -45,7 +45,8 @@ const Pay = ({ persons, goBack }) => {
         setError('');
     };
     const playSound = () => {
-        const audio = new Audio('/audio/sound.mp3');
+        // const audio = new Audio('/audio/sound.mp3');
+        const audio = new Audio(process.env.PUBLIC_URL + '/audio/sound.mp3');
         audio.play();
       };
     const payment = () => {
