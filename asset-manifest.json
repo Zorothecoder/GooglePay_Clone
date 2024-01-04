@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GooglePay_Clone/static/css/main.e3e17e80.css",
-    "main.js": "/GooglePay_Clone/static/js/main.7c620e25.js",
+    "main.js": "/GooglePay_Clone/static/js/main.d16f3693.js",
     "static/js/787.7606e831.chunk.js": "/GooglePay_Clone/static/js/787.7606e831.chunk.js",
     "static/media/google_pay_background.jpg": "/GooglePay_Clone/static/media/google_pay_background.5f7e11aaae18e749845f.jpg",
     "static/media/logo.png": "/GooglePay_Clone/static/media/logo.fcbe59f91821d82a16a7.png",
@@ -14,11 +14,11 @@
     "index.html": "/GooglePay_Clone/index.html",
     "static/media/paper_plane.svg": "/GooglePay_Clone/static/media/paper_plane.3003351d7c9124f6bbc956bda28c67aa.svg",
     "main.e3e17e80.css.map": "/GooglePay_Clone/static/css/main.e3e17e80.css.map",
-    "main.7c620e25.js.map": "/GooglePay_Clone/static/js/main.7c620e25.js.map",
+    "main.d16f3693.js.map": "/GooglePay_Clone/static/js/main.d16f3693.js.map",
     "787.7606e831.chunk.js.map": "/GooglePay_Clone/static/js/787.7606e831.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3e17e80.css",
-    "static/js/main.7c620e25.js"
+    "static/js/main.d16f3693.js"
   ]
 }
